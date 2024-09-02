@@ -33,5 +33,5 @@ Furthermore, this neat, clean and simple website has a smart- SEO friendly codin
 - Well Documented
 - No console error
 - Free Updates
-## IMAGES ARE NOT INCLUDED WITH THE DOWNLOADABLE FILE
+#### IMAGES ARE NOT INCLUDED WITH THE DOWNLOADABLE FILE
 
