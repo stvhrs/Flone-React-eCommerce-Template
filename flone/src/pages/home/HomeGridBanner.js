@@ -9,7 +9,7 @@ const HomeGridBanner = () => {
     <Fragment>
       <SEO
         titleTemplate="Grid Banner Home"
-        description="Grid banner home of flone react minimalist eCommerce template."
+        description="Grid banner home of gubuk react minimalist eCommerce template."
       />
       <LayoutThree
         headerTop="visible"

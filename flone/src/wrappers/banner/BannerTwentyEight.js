@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { Link } from "react-router-dom";
+
 import clsx from "clsx";
 
 const BannerTwentyEight = ({ spaceTopClass, spaceBottomClass }) => {
@@ -9,28 +9,29 @@ const BannerTwentyEight = ({ spaceTopClass, spaceBottomClass }) => {
         <div className="row">
           <div className="col-md-8">
             <div className="single-banner mb-30">
-              <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+            
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/banner/banner-37.jpg"
+                    process.env.PUBLIC_URL + "/assets/a1.png"
                   }
                   alt=""
                   className="img-fluid"
                 />
-              </Link>
+             
             </div>
           </div>
           <div className="col-md-4">
+
             <div className="single-banner mb-30">
-              <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+              
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/banner/banner-38.jpg"
+                    process.env.PUBLIC_URL + "/assets/b1.png"
                   }
                   alt=""
                   className="img-fluid"
                 />
-              </Link>
+              
             </div>
           </div>
         </div>

@@ -14,7 +14,7 @@ const HomeBookStore = () => {
     <Fragment>
       <SEO
         titleTemplate="Book Store Home"
-        description="Book Store Home of flone react minimalist eCommerce template."
+        description="Book Store Home of gubuk react minimalist eCommerce template."
       />
       <LayoutTwo>
         {/* slider banner */}

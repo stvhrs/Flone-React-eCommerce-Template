@@ -13,7 +13,7 @@ const HomeFashionSeven = () => {
     <Fragment>
       <SEO
         titleTemplate="Fashion Home"
-        description="Fashion home of flone react minimalist eCommerce template."
+        description="Fashion home of gubuk react minimalist eCommerce template."
       />
       <LayoutOne
         headerContainerClass="container-fluid"

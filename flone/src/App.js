@@ -110,8 +110,8 @@ const App = () => {
         <ScrollToTop>
           <Suspense
             fallback={
-              <div className="flone-preloader-wrapper">
-                <div className="flone-preloader">
+              <div className="gubuk-preloader-wrapper">
+                <div className="gubuk-preloader">
                   <span></span>
                   <span></span>
                 </div>
@@ -121,7 +121,7 @@ const App = () => {
             <Routes>
               <Route
                 path={process.env.PUBLIC_URL + "/"}
-                element={<HomeFashion/>}
+                element={<HomeElectronicsThree/>}
               />
 
               {/* Homepages */}
@@ -165,6 +165,7 @@ const App = () => {
                 path={process.env.PUBLIC_URL + "/home-cosmetics"}
                 element={<HomeCosmetics/>}
               />
+              
               <Route
                 path={process.env.PUBLIC_URL + "/home-furniture"}
                 element={<HomeFurniture/>}

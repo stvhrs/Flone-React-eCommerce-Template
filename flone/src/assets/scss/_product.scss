@@ -218,7 +218,7 @@
         text-transform: uppercase;
         &.active {
           h4 {
-            color: #fed700;
+            color: #1aae0a;
           }
         }
         h4 {
@@ -1963,7 +1963,7 @@
           border: none;
           border-radius: 50px;
           background: none;
-          background-color: #a749ff;
+          background-color:#b48319;
           &:hover,
           &.active {
             background-color: #fa6bff;
@@ -2331,7 +2331,7 @@
     text-align: center;
 
     opacity: 1;
-    background: none repeat scroll 0 0 #a749ff;
+    background: none repeat scroll 0 0#b48319;
     .pro-same-action {
       margin: 0 2px;
       a,
@@ -2436,7 +2436,7 @@
       margin-bottom: 10px;
       padding: 3px 11px;
 
-      color: #fed700;
+      color: #1aae0a;
       border-radius: 3px;
       &:last-child {
         margin-bottom: 0;
@@ -2456,7 +2456,7 @@
       a {
         color: #3d3d3d;
         &:hover {
-          color: #fed700;
+          color: #1aae0a;
         }
       }
     }
@@ -2490,7 +2490,7 @@
         &.old {
           text-decoration: line-through;
 
-          color: #fed700;
+          color: #1aae0a;
         }
       }
     }
@@ -2535,7 +2535,7 @@
           &:hover,
           &.active {
             color: #fff;
-            background-color: #fed700;
+            background-color: #1aae0a;
           }
         }
       }
@@ -2560,7 +2560,7 @@
       top: 20px;
       right: 20px;
 
-      color: #fed700;
+      color: #1aae0a;
     }
     & .default-img {
       transition: all 0.5s ease-in-out;
@@ -2609,7 +2609,7 @@
         background-color: #555;
         &:hover,
         &.active {
-          background-color: #fed700;
+          background-color: #1aae0a;
         }
       }
     }
@@ -2665,7 +2665,7 @@
         background: #555555;
         &:hover,
         &.active {
-          background: #fed700;
+          background: #1aae0a;
         }
       }
     }
@@ -2686,7 +2686,7 @@
 
           color: #444;
           &:hover {
-            color: #fed700;
+            color: #1aae0a;
           }
         }
       }

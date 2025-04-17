@@ -1632,7 +1632,7 @@
       border: 1px solid #333;
       &:hover {
         color: #fff;
-        border: 1px solid #a749ff;
+        border: 1px solid#b48319;
       }
       @media #{$md-layout} {
         padding: 15px 35px 15px;
@@ -1919,7 +1919,7 @@
       border: 1px solid #333;
       &:hover {
         color: #fff;
-        border: 1px solid #a749ff;
+        border: 1px solid#b48319;
       }
     }
   }
@@ -2249,7 +2249,7 @@
     }
 
     span {
-      color: #fed700;
+      color: #1aae0a;
     }
 
     &.no-style {
@@ -2307,11 +2307,11 @@
       }
       &:hover {
         color: #fff;
-        border: 1px solid #fed700;
+        border: 1px solid #1aae0a;
       }
 
       &:after {
-        background-color: #fed700;
+        background-color: #1aae0a;
       }
     }
   }

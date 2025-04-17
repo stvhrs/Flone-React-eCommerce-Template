@@ -27,7 +27,7 @@ const HomeOnepageScroll = () => {
     <Fragment>
       <SEO
         titleTemplate="Fashion Home"
-        description="Fashion home of flone react minimalist eCommerce template."
+        description="Fashion home of gubuk react minimalist eCommerce template."
       />
       <div className="fullpage-slider-wrapper">
         <Header>
@@ -42,7 +42,7 @@ const HomeOnepageScroll = () => {
             sliderData.map((single, key) => {
               return (
                 <Section key={key}>
-                  <div className="slider-section flone-fp-section">
+                  <div className="slider-section gubuk-fp-section">
                     <div className="container">
                       <div className="row fullpage-slider-wrap-mrg">
                         <div className="col-lg-6 col-md-6 col-sm-6 col-12 d-flex align-items-center">

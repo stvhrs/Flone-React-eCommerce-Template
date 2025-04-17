@@ -1,16 +1,10 @@
 [
   {
     "id": 1,
-    "title": "All Products Sale Up Off <span>To 40%</span>",
-    "subtitle": "Summer <br/> Collections",
-    "image": "/assets/img/slider/slider-29.jpg",
-    "url": "/shop-grid-standard"
-  },
-  {
-    "id": 2,
-    "title": "All Products Sale Up Off <span>To 40%</span>",
-    "subtitle": "Summer <br/> Collections",
-    "image": "/assets/img/slider/slider-29.jpg",
+    "title": "<span>Gubuk Pustaka Harmoni</span>",
+    "subtitle": "Elkapede <br/> Collections",
+    "image": "/assets/s1.png",
     "url": "/shop-grid-standard"
   }
+
 ]

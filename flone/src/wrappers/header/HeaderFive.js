@@ -22,7 +22,7 @@ const HeaderFive = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Flone
+              gubuk
             </a>
             .All Rights Reserved.
           </p>
