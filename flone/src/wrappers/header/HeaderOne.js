@@ -63,10 +63,7 @@ const HeaderOne = ({
               <NavMenu />
             </div>
 
-            <div className="col-xl-2 col-lg-2 col-md-6 col-4">
-              {/* header logo */}
-              <Logo imageUrl="/assets/sopi.png" logoClass="logo" />
-            </div>
+           
           </div>
         </div>
        
