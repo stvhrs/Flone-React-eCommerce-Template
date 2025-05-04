@@ -1,10 +1,18 @@
 [
+
+  {
+    "id": 2,
+    "title": "<span>Menyediakan solusi pendidikan inovatif melalui buku, <br/>aplikasi, video edukatif, dan layanan produksi video.<br/> Kami fokus pada peningkatan akses pendidikan dan <br/>pengembangan penulis, dengan budaya kerja yang <br/>Partisipatif, Holistik, dan Menyenangkan.</span>",
+    "subtitle": "Tentang Kami",
+    "image": "/assets/s2.png",
+    "url": "/shop-grid-standard"
+  },
   {
     "id": 1,
     "title": "<span>Holistik, Partisipatif, Menyenangkan</span>",
     "subtitle": "Elkapede <br/> Collections",
     "image": "/assets/s1.png",
-    "url": "/shop-grid-standard"
+    "url": 
+    "/shop-grid-standard"
   }
-
 ]

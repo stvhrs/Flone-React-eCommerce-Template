@@ -1,64 +1,7 @@
 [{ 
   "id": "10",
   "sku": "asdf132",
-  "name": "Sejarah SMA XI",
-  "price": 15.6,
-  "discount": 0,
-  "new": false,
-  "rating": 4,
-  "saleCount": 90,
-  "category": ["electronics"],
-  "tag": ["electronics"],
-  "stock": 15,
-  "image": [
-    "/assets/2.png",
-    "/assets/7.png"
-    
-  ],
-  "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-  "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-},{ 
-  "id": "10",
-  "sku": "asdf132",
-  "name": "IPA SMA IX",
-  "price": 15.6,
-  "discount": 0,
-  "new": false,
-  "rating": 4,
-  "saleCount": 90,
-  "category": ["electronics"],
-  "tag": ["electronics"],
-  "stock": 15,
-  "image": [
-    "/assets/4.png",
-    "/assets/6.png"
-    
-  ],
-  "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-  "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-},{ 
-  "id": "10",
-  "sku": "asdf132",
-  "name": "Matematika SD VI",
-  "price": 15.6,
-  "discount": 0,
-  "new": false,
-  "rating": 4,
-  "saleCount": 90,
-  "category": ["electronics"],
-  "tag": ["electronics"],
-  "stock": 15,
-  "image": [
-    "/assets/3.png",
-    "/assets/8.png"
-    
-  ],
-  "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-  "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-},{ 
-  "id": "10",
-  "sku": "asdf132",
-  "name": "English SMA XII",
+  "name": "Bahasa Indonesia SMP VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -69,9 +12,130 @@
   "stock": 15,
   "image": [
     "/assets/1.png",
-    "/assets/5.png"
+    "/assets/1.png"
     
   ],
-  "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-  "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-}]
+  "shortDescription": "Penulis: Nur Wahid Hasan, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "Bahasa Inggris SMP VII",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/2.png",
+    "/assets/2.png"
+    
+  ],
+  "shortDescription": "Penulis: Achmad Dzaky Mubarroq, S. Pd., Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "Matematika SMP VII",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/3.png",
+    "/assets/3.png"
+    
+  ],
+  "shortDescription": "Penulis: Malik Rosyid Ridho, M.Pd.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "IPA SMP VII",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/4.png",
+    "/assets/4.png"
+    
+  ],
+  "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "IPS SMP VII",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/5.png",
+    "/assets/5b.png"
+    
+  ],
+  "shortDescription": "Penulis: Ahmad Syahdatul Kahfi, S.Sos<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "Bahasa Inggris SMA X",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/6.png",
+    "/assets/6b.png"
+    
+  ],
+  "shortDescription": "Penulis: Ahmad Syahdatul Kahfi, S.Sos<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+},
+
+{ 
+  "id": "10",
+  "sku": "asdf132",
+  "name": "IPA SMP IX",
+  "price": 15.6,
+  "discount": 0,
+  "new": false,
+  "rating": 4,
+  "saleCount": 90,
+  "category": ["electronics"],
+  "tag": ["electronics"],
+  "stock": 15,
+  "image": [
+    "/assets/7.png",
+    "/assets/7b.png"
+    
+  ],
+  "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+}
+
+
+
+
+
+]

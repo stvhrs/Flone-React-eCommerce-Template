@@ -13,14 +13,18 @@ const HeroSliderTwentySevenSingle = ({ data }) => {
         <div className="row">
           <div className="col-xl-12 col-lg-12 col-md-12">
             <div className="slider-content-16 slider-animated-1">
-              <h5
-                className="animated"
-                dangerouslySetInnerHTML={{ __html: data.title }}
-              />
+              
               <h1
                 className="animated"
                 dangerouslySetInnerHTML={{ __html: data.subtitle }}
               />
+              <h5
+                className="animated"
+                dangerouslySetInnerHTML={{ __html: data.title }}
+              />
+              <br></br>
+              <br></br>
+              
               <div className="slider-btn btn-hover">
                 <Link
                   className="animated"

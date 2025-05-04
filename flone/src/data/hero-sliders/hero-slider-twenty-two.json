@@ -1,18 +1,20 @@
 [
-  {
-    "id": 1,
-    "title": "Hurry Up",
-    "subtitle": "Get 50% Offer",
-    "text": "All Pastrys For This Summer.",
-    "image": "/assets/img/slider/slider-22.jpg",
-    "url": "/shop-grid-standard"
+  
+    {
+    "id": 2,
+    "title":"Tentang Kami" ,
+    "subtitle": "" ,
+    "image": "/assets/s1.png",
+    "url": "/shop-grid-standard",
+    "text": "Menyediakan solusi pendidikan inovatif melalui buku, aplikasi, video edukatif, dan layanan produksi video. Kami fokus pada peningkatan akses pendidikan dan pengembangan penulis, dengan budaya kerja yang Partisipatif, Holistik, dan Menyenangkan."
+    
   },
   {
-    "id": 2,
-    "title": "Hurry Up",
-    "subtitle": "Get 30% Offer",
-    "text": "All cakes For This Summer.",
-    "image": "/assets/img/slider/slider-22.jpg",
-    "url": "/shop-grid-standard"
+    "id": 1,
+    "title": "Elkapede Collections" ,
+    "subtitle":"Holistik, Partisipatif, Menyenangkan",
+    "image": "/assets/s2.png",
+    "url": 
+    "/shop-grid-standard"
   }
 ]

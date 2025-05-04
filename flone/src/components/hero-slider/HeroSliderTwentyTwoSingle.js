@@ -20,9 +20,9 @@ const HeroSliderTwentyTwoSingle = ({ data }) => {
               <div className="slider-btn btn-hover">
                 <Link
                   className="animated rounden-btn"
-                  to={process.env.PUBLIC_URL + data.url}
+                  to={"https://wa.me/6285601721370?text=Hallo%2C%20bagaimana%20saya%20bisa%20memesan%3F"}
                 >
-                  SHOP NOW
+                  Beli Sekarang
                 </Link>
               </div>
             </div>

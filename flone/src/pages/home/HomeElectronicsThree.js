@@ -1,8 +1,8 @@
 import React, { Fragment } from "react";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
-import HeroSliderTwentySeven from "../../wrappers/hero-slider/HeroSliderTwentySeven";
-import BannerTwentyEight from "../../wrappers/banner/BannerTwentyEight";
+import HeroSliderTwentyTwo from "../../wrappers/hero-slider/HeroSliderTwentyTwo";
+// import BannerTwentyEight from "../../wrappers/banner/BannerTwentyEight";
 
 
 import TabProductEighteen from "../../wrappers/product/TabProductEighteen";
@@ -19,9 +19,9 @@ const HomeElectronicsThree = () => {
       />
       <LayoutOne headerTop="invisible">
         {/* hero slider */}
-        <HeroSliderTwentySeven />
+        <HeroSliderTwentyTwo />
         {/* banner */}
-        <BannerTwentyEight spaceTopClass="pt-100" spaceBottomClass="pb-70" />
+        {/* <BannerTwentyEight spaceTopClass="pt-100" spaceBottomClass="pb-70" /> */}
         {/* product tab */}
         <TabProductEighteen category="electronics" spaceBottomClass="pb-70" />
 

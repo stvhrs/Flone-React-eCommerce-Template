@@ -1,19 +1,28 @@
 import PropTypes from "prop-types";
-import { Fragment,  } from "react";
+import { Fragment, useState } from "react";
+import clsx from "clsx";
+import { getDiscountPrice } from "../../helpers/product";
+import ProductModal from "./ProductModal";
 import { Link } from "react-router-dom";
 
-import clsx from "clsx";
+
 
 const ProductGridSingleSeven = ({
   product,
   currency,
-  cartItem,
+
   wishlistItem,
   compareItem,
-  sliderClassName,
+
   spaceBottomClass,
   colorClass
 }) => {
+  const [modalShow, setModalShow] = useState(false);
+  const discountedPrice = getDiscountPrice(product.price, product.discount);
+  const finalProductPrice = +(product.price * currency.currencyRate).toFixed(2);
+  const finalDiscountedPrice = +(
+    discountedPrice * currency.currencyRate
+  ).toFixed(2);
 
 
   return (
@@ -22,7 +31,7 @@ const ProductGridSingleSeven = ({
           className={clsx("product-wrap-7", spaceBottomClass, colorClass)}
         >
           <div className="product-img">
-         
+          <Link onClick={() => setModalShow(true)} title="Quick View">
               <img
                 className="default-img"
                 src={process.env.PUBLIC_URL + product.image[0]}
@@ -37,27 +46,59 @@ const ProductGridSingleSeven = ({
               ) : (
                 ""
               )}
+           </Link>
+            {product.discount || product.new ? (
+              <div className="product-img-badges">
+                {product.discount ? (
+                  <span className="pink">-{product.discount}%</span>
+                ) : (
+                  ""
+                )}
+                {product.new ? <span className="purple">New</span> : ""}
+              </div>
+            ) : (
+              ""
+            )}
+
+            <div className="product-action-2">
             
-           
-           
-           
+              <button onClick={() => setModalShow(true)} title="Quick View">
+                <i className="fa fa-eye"></i>
+              </button>
+
+            
+            </div>
+            <div className="pro-wishlist-2">
+             
+            </div>
           </div>
           <div className="product-content-2">
             <div className="title-price-wrap-2">
               <h3>
-              <Link to={"https://id.shp.ee/xcoRB7w"}>
-                  {product.name}
-                </Link>
-             
+              <div className="product-action-2">
+            
+            <Link onClick={() => setModalShow(true)} title="Quick View">
+           
+              {product.name}
+            </Link>
+            </div>
               </h3>
-             
-              
-             
+            
             </div>
           </div>
         </div>
       {/* product modal */}
-     
+      <ProductModal
+        show={modalShow}
+        onHide={() => setModalShow(false)}
+        product={product}
+        currency={currency}
+        discountedPrice={discountedPrice}
+        finalProductPrice={finalProductPrice}
+        finalDiscountedPrice={finalDiscountedPrice}
+        wishlistItem={wishlistItem}
+        compareItem={compareItem}
+      />
     </Fragment>
   );
 };
