@@ -1,10 +1,9 @@
 import PropTypes from "prop-types";
-import React, { Fragment, useState } from "react";
-import { Link } from "react-router-dom";
+import React, {  useState } from "react";
 import { useDispatch } from "react-redux";
 import { getProductCartQuantity } from "../../helpers/product";
-import Rating from "./sub-components/ProductRating";
-import { addToCart } from "../../store/slices/cart-slice";
+
+
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 
@@ -41,29 +40,12 @@ const ProductDescriptionInfo = ({
     <div className="product-details-content ml-70">
       <h2>{product.name}</h2>
       <div className="product-details-price">
-        {discountedPrice !== null ? (
-          <Fragment>
-            <span>{currency.currencySymbol + finalDiscountedPrice}</span>{" "}
-            <span className="old">
-              {currency.currencySymbol + finalProductPrice}
-            </span>
-          </Fragment>
-        ) : (
-          <span>{currency.currencySymbol + finalProductPrice} </span>
-        )}
+      
       </div>
-      {product.rating && product.rating > 0 ? (
-        <div className="pro-details-rating-wrap">
-          <div className="pro-details-rating">
-            <Rating ratingValue={product.rating} />
-          </div>
-        </div>
-      ) : (
-        ""
-      )}
-      <div className="pro-details-list">
-        <p>{product.shortDescription}</p>
-      </div>
+      
+         <div className="pro-details-list">
+              <p dangerouslySetInnerHTML={{ __html: product.shortDescription }}></p>
+            </div>
 
       {product.variation ? (
         <div className="pro-details-size-color">
@@ -96,40 +78,10 @@ const ProductDescriptionInfo = ({
               })}
             </div>
           </div>
-          <div className="pro-details-size">
-            <span>Size</span>
-            <div className="pro-details-size-content">
-              {product.variation &&
-                product.variation.map(single => {
-                  return single.color === selectedProductColor
-                    ? single.size.map((singleSize, key) => {
-                        return (
-                          <label
-                            className={`pro-details-size-content--single`}
-                            key={key}
-                          >
-                            <input
-                              type="radio"
-                              value={singleSize.name}
-                              checked={
-                                singleSize.name === selectedProductSize
-                                  ? "checked"
-                                  : ""
-                              }
-                              onChange={() => {
-                                setSelectedProductSize(singleSize.name);
-                                setProductStock(singleSize.stock);
-                                setQuantityCount(1);
-                              }}
-                            />
-                            <span className="size-name">{singleSize.name}</span>
-                          </label>
-                        );
-                      })
-                    : "";
-                })}
-            </div>
-          </div>
+         
+              
+         
+          
         </div>
       ) : (
         ""
@@ -176,26 +128,7 @@ const ProductDescriptionInfo = ({
               +
             </button>
           </div>
-          <div className="pro-details-cart btn-hover">
-            {productStock && productStock > 0 ? (
-              <button
-                onClick={() =>
-                  dispatch(addToCart({
-                    ...product,
-                    quantity: quantityCount,
-                    selectedProductColor: selectedProductColor ? selectedProductColor : product.selectedProductColor ? product.selectedProductColor : null,
-                    selectedProductSize: selectedProductSize ? selectedProductSize : product.selectedProductSize ? product.selectedProductSize : null
-                  }))
-                }
-                disabled={productCartQty >= productStock}
-              >
-                {" "}
-                Add To Cart{" "}
-              </button>
-            ) : (
-              <button disabled>Out of Stock</button>
-            )}
-          </div>
+        
           <div className="pro-details-wishlist">
             <button
               className={wishlistItem !== undefined ? "active" : ""}
@@ -226,72 +159,10 @@ const ProductDescriptionInfo = ({
           </div>
         </div>
       )}
-      {product.category ? (
-        <div className="pro-details-meta">
-          <span>Categories :</span>
-          <ul>
-            {product.category.map((single, key) => {
-              return (
-                <li key={key}>
-                  <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-                    {single}
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
-        </div>
-      ) : (
-        ""
-      )}
-      {product.tag ? (
-        <div className="pro-details-meta">
-          <span>Tags :</span>
-          <ul>
-            {product.tag.map((single, key) => {
-              return (
-                <li key={key}>
-                  <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-                    {single}
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
-        </div>
-      ) : (
-        ""
-      )}
+      
+      
 
-      <div className="pro-details-social">
-        <ul>
-          <li>
-            <a href="//facebook.com">
-              <i className="fa fa-facebook" />
-            </a>
-          </li>
-          <li>
-            <a href="//dribbble.com">
-              <i className="fa fa-dribbble" />
-            </a>
-          </li>
-          <li>
-            <a href="//pinterest.com">
-              <i className="fa fa-pinterest-p" />
-            </a>
-          </li>
-          <li>
-            <a href="//twitter.com">
-              <i className="fa fa-twitter" />
-            </a>
-          </li>
-          <li>
-            <a href="//linkedin.com">
-              <i className="fa fa-linkedin" />
-            </a>
-          </li>
-        </ul>
-      </div>
+     
     </div>
   );
 };

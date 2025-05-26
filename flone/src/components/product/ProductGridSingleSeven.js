@@ -31,7 +31,7 @@ const ProductGridSingleSeven = ({
           className={clsx("product-wrap-7", spaceBottomClass, colorClass)}
         >
           <div className="product-img">
-          <Link onClick={() => setModalShow(true)} title="Quick View">
+          <Link to={process.env.PUBLIC_URL + "/product/" + product.id}>
               <img
                 className="default-img"
                 src={process.env.PUBLIC_URL + product.image[0]}
@@ -77,10 +77,9 @@ const ProductGridSingleSeven = ({
               <h3>
               <div className="product-action-2">
             
-            <Link onClick={() => setModalShow(true)} title="Quick View">
-           
-              {product.name}
-            </Link>
+            <Link to={process.env.PUBLIC_URL + "/product/" + product.id}>
+                  {product.name}
+                </Link>
             </div>
               </h3>
             
