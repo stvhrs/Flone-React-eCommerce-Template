@@ -1,7 +1,7 @@
 [{ 
-  "id": "10",
+  "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia VII",
   "sku": "asdf132",
-  "name": "Bahasa Indonesia SMP VII",
+  "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -18,9 +18,9 @@
   "shortDescription": "Penulis: Nur Wahid Hasan, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
 },
 { 
-  "id": "10",
+  "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris VII",
   "sku": "asdf132",
-  "name": "Bahasa Inggris SMP VII",
+  "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -37,9 +37,9 @@
   "shortDescription": "Penulis: Achmad Dzaky Mubarroq, S. Pd., Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
 },
 { 
-  "id": "10",
+  "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika VII",
   "sku": "asdf132",
-  "name": "Matematika SMP VII",
+  "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -57,9 +57,9 @@
 },
 
 { 
-  "id": "10",
+  "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam VII",
   "sku": "asdf132",
-  "name": "IPA SMP VII",
+  "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -76,9 +76,9 @@
   "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
 },
 { 
-  "id": "10",
+  "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Sosial VII",
   "sku": "asdf132",
-  "name": "IPS SMP VII",
+  "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Sosial VII",
   "price": 15.6,
   "discount": 0,
   "new": false,
@@ -93,45 +93,6 @@
     
   ],
   "shortDescription": "Penulis: Ahmad Syahdatul Kahfi, S.Sos<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
-},
-{ 
-  "id": "10",
-  "sku": "asdf132",
-  "name": "Bahasa Inggris SMA X",
-  "price": 15.6,
-  "discount": 0,
-  "new": false,
-  "rating": 4,
-  "saleCount": 90,
-  "category": ["electronics"],
-  "tag": ["electronics"],
-  "stock": 15,
-  "image": [
-    "/assets/6.png",
-    "/assets/6b.png"
-    
-  ],
-  "shortDescription": "Penulis: Ahmad Syahdatul Kahfi, S.Sos<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
-},
-
-{ 
-  "id": "10",
-  "sku": "asdf132",
-  "name": "IPA SMP IX",
-  "price": 15.6,
-  "discount": 0,
-  "new": false,
-  "rating": 4,
-  "saleCount": 90,
-  "category": ["electronics"],
-  "tag": ["electronics"],
-  "stock": 15,
-  "image": [
-    "/assets/7.png",
-    "/assets/7b.png"
-    
-  ],
-  "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
 }
 
 
