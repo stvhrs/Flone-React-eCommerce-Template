@@ -15,7 +15,7 @@
     "/assets/1.png"
     
   ],
-  "shortDescription": "Penulis: Nur Wahid Hasan, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  "shortDescription": "Penulis: Johan Wahyudi<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
 },
 { 
   "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris VII",
@@ -93,7 +93,512 @@
     
   ],
   "shortDescription": "Penulis: Ahmad Syahdatul Kahfi, S.Sos<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
-}
+},
+{
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika VI",
+    "sku": "mat6132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika VI",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT6.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika V",
+    "sku": "mat5132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika V",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT5.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika IV",
+    "sku": "mat4132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika IV",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT4.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika III",
+    "sku": "mat3132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika III",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT3.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika II",
+    "sku": "mat2132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika II",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT2.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika I",
+    "sku": "mat1132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Matematika I",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/MAT1.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Koding dan Kecerdasan Artifisial VI",
+    "sku": "koding6132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Koding dan Kecerdasan Artifisial VI",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/Koding 6.png"
+    ],
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Koding dan Kecerdasan Artifisial V",
+    "sku": "koding5132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Koding dan Kecerdasan Artifisial V",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/Koding5.png"
+    ], 
+    "shortDescription": "Penulis: Zulfikar Ali, S.Pd<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial VI",
+    "sku": "ipas6132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial VI",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/IPAS6.png"
+    ],
+    "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial V",
+    "sku": "ipas5132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial V",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/IPAS5.png"
+    ],
+    "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial IV",
+    "sku": "ipas4132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial IV",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/IPAS4.png"
+    ],
+    "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial III",
+    "sku": "ipas3132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Ilmu Pengetahuan Alam dan Sosial III",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/IPAS3.png"
+    ],
+    "shortDescription": "Penulis: Ardiana Frida Sylvia, S.Si<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris VI",
+    "sku": "ing6132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris VI",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING6.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris V",
+    "sku": "ing5132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris V",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING5.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris IV",
+    "sku": "ing4132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris IV",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING4.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris III",
+    "sku": "ing3132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris III",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING3.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris II",
+    "sku": "ing2132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris II",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING2.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris I",
+    "sku": "ing1132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Inggris I",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/ING1.png"
+    ],
+    "shortDescription": "Penulis: Achmad Dzaky Mubaroq, S.Pd. Gr.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia VI",
+    "sku": "bi6132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia VI",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI6.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia V",
+    "sku": "bi5132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia V",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI5.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia IV",
+    "sku": "bi4132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia IV",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI4.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia III",
+    "sku": "bi3132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia III",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI3.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia II",
+    "sku": "bi2132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia II",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI2.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  },
+  {
+    "id": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia I",
+    "sku": "bi1132",
+    "name": "Buku Pendamping ELKAPEDE (Evaluasi Lengkap Pembelajaran Deduktif) Bahasa Indonesia I",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": [
+      "electronics"
+    ],
+    "tag": [
+      "electronics"
+    ],
+    "stock": 15,
+    "image": [
+      "/assets/BI1.png"
+    ],
+    "shortDescription": "Penulis: Riski Amalia, S.S.<br/>Penerbit: CV. Gubuk Pustaka Harmoni<br/>Tahun Terbit: 2025<br/>ISBN:-<br/>Jumlah Halaman: 96 Halaman<br/>Spesifikasi: Isi buku menggunakan huruf Corbel; Uk: 70.7 x 100 cm"
+  }
+
 
 
 
